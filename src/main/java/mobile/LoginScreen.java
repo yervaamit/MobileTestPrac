@@ -1,8 +1,9 @@
+package mobile;
+
 import com.testvagrant.ekam.atoms.mobile.MobileScreen;
 import com.testvagrant.ekam.reports.annotations.MobileStep;
 import org.openqa.selenium.By;
 
-import static org.testng.Assert.*;
 
 public class LoginScreen extends MobileScreen {
 

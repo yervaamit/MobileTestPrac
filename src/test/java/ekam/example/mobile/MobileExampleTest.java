@@ -1,6 +1,8 @@
 package ekam.example.mobile;
 
+import com.testvagrant.ekam.commons.LayoutInitiator;
 import com.testvagrant.ekam.testBases.testng.MobileTest;
+import mobile.LoginScreen;
 import org.testng.annotations.Test;
 import static com.testvagrant.ekam.commons.LayoutInitiator.*;
 import static org.testng.Assert.*;
